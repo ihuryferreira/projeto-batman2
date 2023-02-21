@@ -323,8 +323,8 @@ body {
     transition: 0.5s;
     transform: scale(1);
     box-shadow: none;
-    margin: 4rem 1.3rem;
-    padding: 1.2em;
+    margin: 4rem 0.8rem;
+    padding: 1em;
     cursor: pointer;
 }
 
