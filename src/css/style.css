@@ -608,3 +608,25 @@ body {
         padding-bottom: 80px;
     }
 }
+
+@media (max-width: 375px) {
+    .descript .estrelas {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        width: 300px;
+        height: 70px;
+        padding: 0px;
+    }
+
+    .descript .estrelas span {
+        font-size: 22px;
+    }
+
+    .descript .estrelas i {
+        font-size: 22px;
+    }
+    .descript .estrelas .time {
+        font-size: 22px;
+    }
+}
