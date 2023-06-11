@@ -556,6 +556,7 @@ body {
     font-weight: bold;
     color: #ff0000;
     line-height: 20px;
+    cursor: pointer;
 }
 .modal .background #video {
     width: 580px;
